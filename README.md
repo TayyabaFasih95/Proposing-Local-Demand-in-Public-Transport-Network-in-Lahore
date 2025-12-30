@@ -1,2 +1,232 @@
 # Proposing-Local-Demand-in-Public-Transport-Network-in-Lahore
 Proposing Local Demand in Public Transport Network in Lahore (City of Pakistan) by considering Residential density and Transit service
+1
+CE581 20INDE5001
+IŞIK UNIVERSITY
+Faculty of Engineering Department of Industrial Engineering
+Proposing Local Demand in Public Transport Network in Lahore (City of Pakistan) by considering Residential density and Transit services
+Project Report By
+Tayyaba Fasih (20INDE5001)
+Supervised by: ALİ SERCAN KESTEN
+CE 581: Transportation System Analysis
+November 2022
+1
+CE581 20INDE5001
+Table of Contents
+1. INTRODUCTION ........................................................................................................ 5
+1.2 Study Area....................................................................................................................... 7
+2. LITERATURE REVIEW ............................................................................................ 8
+2.1 Historical and Cultural Significance of Lahore as Compared to Karachi and Islamabad .... 9
+2.2 Job Opportunities ........................................................................................................... 10
+3. PROBLEM STATEMENT/OBJECTIVE ................................................................ 11
+3.1 Why is Public Transport so Important for Lahore? .......................................................... 12
+3.2 Why Public Transport is Needed More in Lahore than Other Metropolitan Cities? .......... 13
+3.3 Current State of Public Transport in Lahore ..................................................................... 13
+4. PROBLEM SOLUTION/METHODOLOGY .......................................................... 14
+4.1. Analysis of Local Demand of Public Transport Based on Residential Density ................ 15
+4.2 Proposal of New Network of Public Transit Service ........................................................ 16
+4.3 Specifications of the Public Transit Service ..................................................................... 17
+4.4 Proposed Routes of the New Public Transit Service ......................................................... 18
+4.4.3 Route 3 ........................................................................................................................ 19
+4.4.3 Route 3 ........................................................................................................................ 20
+4.4.3 Route 3 ........................................................................................................................ 21
+4.4.3 Route 3 ..................................................................................................................... 21
+5. Benefits of New Network of Public Transit Service ................................................ 23
+6. Results ....................................................................................................................... 24
+7. Conclusion ................................................................................................................. 24
+8. References ................................................................................................................ 25
+2
+CE581 20INDE5001
+List of Figures
+Figure 1: Japan's Maglev Train (top left), New York City Subway (top right), Eurostar train (bottom left) and the London Tube (bottom right)
+Figure 2: Geographical Location of Lahore
+Figure 3: Spatial extent of Lahore over the years
+Figure 4: Lahore experiences massive traffic jams on a daily basis
+Figure 5: Ranking based on PM 2.5 air Pollution
+Figure 6: Route of the Lahore Metro Bus System
+Figure 7: Route of the Lahore Rapid Mass Transit System
+Figure 8: Population Density of Lahore
+Figure 9: Housing Developments in Lahore
+Figure 10: Above ground stations of LRMTS
+Figure 11: Overview of Flyover Components
+Figure 12: Proposed New Network of Public Transport for Lahore
+Figure 13: Points of intersection of all routes
+Figure 14: Locations of airports, bus stands and railway stations
+3
+CE581 20INDE5001
+ACKNOWLEDGEMENT I am grateful to Allah, The Almighty, for the good health and wellbeing that were necessary to complete this research report I wish to express my sincere thanks to ALİ SERCAN KESTEN, Faculty professor of department of (Civil Engineering), for providing me with all the necessary guidance for this project report.
+4
+CE581 20INDE5001
+Abstract
+This report is basically a small study of transportation system in Lahore by considering resident density and transit services keeping in mind. The idea propose about the need of local demand and why it is much important. Despite of other reasons one major reason smog issue has been noticed which requires high attention as Lahore is one of the most pollutant city of Pakistan and world. And this market hub Lahore is badly affecting by too much private vehicle and here, some solutions were proposed for the prosperity of city, if implemented accordingly.
+5
+CE581 20INDE5001
+Proposing Local Demand in Public Transport Network in Lahore (City of Pakistan) by considering Residential density and Transit services
+1. Introduction
+Public transport is a system of transportation for people, usually in the form of groups, and commonly operating on a schedule and established routes. It is widely regarded as one of the most important aspects of a community’s infrastructure alongside other key components such as road networks, sewage system, utilities, healthcare, etc. In fact, it is one of the distinguishing factors between a well-established community and a dilapidated one.
+The earliest form of public transport was ferries and ships i.e. water-based transportation. In fact, the concept of ferries is so ancient that it can even be found in Greek mythology. On the other hand, on land, people used private transport such as horse-drawn carriages and those who could not afford to do so, simply walked from one place to another. The first instance of land-based public transport was a bus system in Paris, France in 1962.
+Over the course of the last few decades, public transit systems have evolved to include transportation by all means i.e. land, water and air. Every day sees the advent of newer, more advanced system of public transportation that make the lives of their communities easier, faster and more convenient. Some notable examples include:
+1. SC Maglev Train in Japan: A high speed maglev (Magnetic Levitation) train that can reach speeds as high as 600 km/hr.
+2. New York City Subway: A train system in the city of New York which has 47 stations, the highest number of train stations in the world
+3. Eurostar: A high speed train that connects the United Kingdom with France. It has its railway track in an underwater tunnel
+4. The Tube: London’s underground train system which was the first underground train system in the world
+6
+CE581 20INDE5001
+Figure 15: Japan's Maglev Train (top left), New York City Subway (top right), EuroStar train (bottom left) and the London Tube (bottom right)
+However, public transportation is typically more widespread and commonly available in more developed countries. In developing or third-world countries, the scenario is quite different. Public transport, if it exists, is typically available only in large metropolitan cites. More often than not, it is privately owned and not operated by the government. That means it is higher in cost and, therefore, not affordable for most citizens.
+That is exactly the case with Pakistan, a country located in South Asia, which is a third-world and developing country riddled with economic problems. In Pakistan, government-owned public transportation systems are limited to the largest and most populated cities namely, Lahore, Karachi and the capital Islamabad. Even there, these transportation systems are dilapidated and in severe need of repairs and upgradation. Further, they do not operate by the given schedule; trains and buses being late has become the norm. None of the vehicles beings used are environment-friendly or wheelchair accessible, either. In other, smaller, cities public transport is privately owned and is limited to run-down minivans and rickshaws.
+As mentioned previously, Lahore is one such city in Pakistan which has government-owned public transportation system, albeit a limited one. However, it is in dire need of an upgradation for a number of reasons.
+This study deals with the proposal of a new system of public transportation for the city of Lahore in Pakistan. The current situation of public transport in Lahore has been discussed in detail in order to establish why introducing a new system is necessary in the first place. Furthermore, it has also been explained why Lahore is more in need of public transport than other cities like Karachi and Islamabad. Finally, a new network of train lines has been proposed that covers the entire area of
+7
+CE581 20INDE5001
+the city, especially the more residentially dense and lower economic households. Justification has also been provided for choosing the proposed routes on the basis of population density as well as analysis of socioeconomic conditions of different neighborhoods. It has also been explained in detail how the city of Lahore and its residents can benefit from this new proposed system.
+1.2 Study Area
+This study is based in Lahore, Pakistan. The city of Lahore has its center at 31.5204° N, 74.3587° E and is adjacent to the Ravi River. Further, it is located next to the Indian border which is only a few kilometers east of the city limits.
+Figure 16: Geographical Location of Lahore
+In recent years, it has seen a considerable growth in urban sprawl in all directions, particularly in the east and south. It is the second most populated city of Pakistan and 26th most populous city in the world, housing a population of roughly 13 million, as of 2022. It is also the capital city of the province of Punjab and a major economic and industrial hub of Pakistan.
+2. Literature Review:
+2.1 Historical and Cultural Significance of Lahore as Compared to Karachi and Islamabad
+8
+CE581 20INDE5001
+Lahore is a very ancient city. While the definite date of origin is unknown, the earliest known record of a city named Lahore dates back to 982 CE. Further, Lahore has been the capital city of many historical dynasties and kingdoms such as the Mughal Empire, Ghaznavids and the Delhi Sultanate. In contrast, the city of Karachi, while still old, is nowhere near as ancient as Lahore. Islamabad was developed in the 1960s as the capital city of Pakistan and, thus, does not possess the rich and ancient history that Lahore and—to a lesser extent—Karachi does.
+Further, Lahore also has great cultural significance in the region. This is because it is home to a number of mosques, shrines, museums, forts and gardens. It is estimated that more than 50,000 people visit Lahore each year for tourism purposes (Ten-fold increase in foreign tourists for Lahore Walled City, n.d.). Karachi, on the other hand, only has one major historical landmark, the resting place of the founder of Pakistan, Muhammad Ali Jinnah Quaid-e-Azam. Islamabad has no culturally or historically important sites as it is a relatively new city.
+2.2 Job Opportunities
+As mentioned previously, Karachi is the most populous city of Pakistan. In the past few decades, millions of people have migrated to Karachi for job opportunities. However, cost of living in Karachi has become exceedingly high in the past few years due to inflation and economic disparity. Therefore, Karachi has started experiencing decline in the number of migrants.
+Islamabad, on the other hand, experiences very little migration. Due to the fact that it is the capital city of Pakistan and home to all government offices, parliament and embassies, it is generally a very pricey place to live. Real estate prices in Islamabad has always been far greater than the national average.
+Lahore, on the other hand, has a lower cost of living than Karachi and Islamabad (Numbeo, n.d.). This, coupled with the fact that Lahore is home to many industrial estates and large-scale, multinational firms, means that Lahore experiences an influx of people who are on the lookout for jobs and better opportunities.
+3. Problem Objective/Statement
+Lahore is integral for the country of Pakistan for economic, historical and cultural reasons. It is a rich, vibrant city which presents the promise of job opportunities—and, consequently, a better life—for many people. Despite this, Lahore is still plagues by an inefficient and outdated network of public transport.
+Due to this, most of the population has to resort to using private transport such as cars and motorbikes. If not, then they have to rely on rickshaws, taxis or local vans. Due to this, Lahore has developed extreme traffic related issues. The current road network is not equipped to handle the
+9
+CE581 20INDE5001
+number of cars that are present in the city. Based on the recent population and migration trends, this problem in only going to get worse in the future.
+Due to all aforementioned reasons, a new public transportation network is the need of the hour for the city of Lahore. This study deals with the proposal of one such network, the details and justification of which are explained in the latter section.
+3.1 Why is Public Transport so Important for Lahore?
+Public transport is extremely crucial for the present and future residents of Lahore for a number of reasons. First and foremost, Lahore is experiencing a rapid increase in the urban sprawl each year. (Munir, 2018) analyzed the increase in urban sprawl of Lahore using satellite imagery and found that the city extent had increased more than two-fold between the years 2013 to 2018. This increase in population as well as spatial extent further reinforces the need for a transportation network. It is imperative that different ends of such a massive city are well-connected with each in order to ensure mobility and ease of movement.
+Figure 17: Spatial extent of Lahore over the years
+Furthermore, as mentioned previously, the increase in population of Lahore as well as the run-down state of public transport has led to an increase in the number of cars and motorcycles. The
+10
+CE581 20INDE5001
+road network of Lahore is not equipped to handle this massive influx of vehicles and, consequently, the city sees hundreds of vehicles jammed in traffic every day. These traffic jams cause people to be late to their workplaces, leading to a decrease in productivity. Further, when cars sit idle on the road with the engine running for hours, it leads to massive quantities of toxins being released into the air.
+Figure 18: Lahore experiences massive traffic jams on a daily basis
+11
+CE581 20INDE5001
+Further, due to this increase in the number of vehicles, in recent years, smog has become a very pressing issue in Lahore. According to the world rankings of 2022, Lahore is the most polluted city in the world (Vanzo, 2022) (see Figure 4). This data is based on PM2.5 air pollution data i.e. the level of particulate matter in the air with size less than 2.5 microns. For the month of November 2022, the Air Quality Index of Lahore has been in the range of 300-350 which is classified as ‘Hazardous’ (Air quality in Lahore, n.d.).
+Figure 19: Ranking based on PM 2.5 air Pollution
+This smog has deadly consequences for the residents of Lahore who have no choice but to breathe in this polluted and poisonous air. According to the latest data, simply living and breathing in Lahore is equivalent to smoking 1.7 cigarettes per day (Coelho & M., n.d.). This essentially means that every single inhabitant in the city of Lahore—even toddlers and infants—are suffering from the consequences of chain smoking even though they are not smoking.
+The effects of this have already begun to become noticeable, especially in children. A recent study has shown that there has been documented increase in the blood pressure levels of children in Lahore and researchers have attributed this increase to the prevailing smog (Sughis, Nawrot, Ihsan-ul-Haque, & al., 2012). Another study pointed towards a 60% increase in ocular surface diseases such as dry eyes, corneal diseases, lid erosion, lacrimation, etc. in smog days as compared to normal days (Ashraf, Butt, Khalid, Alam, & Ahmad, 2017).
+Granted, there are various causes for this smog problem with vehicular emissions being only one of them. Other factors such as industrial pollution, coal-burning power plants and waste-burning
+12
+CE581 20INDE5001
+also contribute significantly to this smog problem. However, vehicular emissions have proven to be the most pressing concern among all aforementioned factors (Ali, 2021).
+This is because Lahore has very limited industries and even those are confined to special zones termed as ‘industrial zones.’ Most of the area of Lahore is residential and commercial zones. Further, no fossil fuel burning power plants and waste treatment plants exist within the city limits. That leaves only vehicular emission as the most significant factor as well as the one that is most easily controlled in order to decrease this smog hazard and prevent it from harming the citizens’ health further.
+3.2 Why Public Transport is Needed More in Lahore than Other Metropolitan Cities?
+As mentioned in the previous section, there are numerous reasons why public transport is integral for the city of Lahore. However, this begs the question: is public transport also not necessary for other large metropolitan cities of Pakistan like Karachi and Islamabad? Why only Lahore? Or rather, why Lahore first and others second?
+There are various reasons as to why Lahore needs this new network of public transportation more than Karachi and Islamabad. Firstly, while Karachi currently has a larger population, experts predict that by 2050, the population of Lahore will exceed that of Karachi. In fact, it is projected to become the world’s most populated city by the year 2050 (Khawar, 2017). Transportation projects are large scale projects that cannot be undertaken ever few years. Therefore, they must account for the needs of the future in order to be more long lasting.
+Furthermore, as previously mentioned, Lahore is plagued by a very serious smog problem and faces horrible air quality. In comparison, Karachi and Islamabad fare much better in terms of air quality. In 2018, Lahore was ranked among the world’s top 10 most polluted cities. In the same year, Islamabad ranked at 239 and Karachi fared even better with a ranking of 318 (Air quality in Lahore, n.d.).
+Thus, while Karachi and Islamabad would also, no doubt, benefit greatly from a network of public transportation, neither city needs this as much as Lahore does. Lahore is the city that is experiencing the most population grown and migration as well as experiencing a decline in air quality every year.
+3.3 Current State of Public Transport in Lahore
+There exist two major public transport systems in Lahore currently. They are discussed as follows:
+1. Lahore Metrobus System
+13
+CE581 20INDE5001
+Lahore Metrobus is a bus system currently operating in Lahore. It was established in 2013 and is operated by the Punjab Mass Transit Authority. However, the biggest limitation of this bus system is that it operates along only one route. The fleet of 66 buses run along a 28.7 km long route adjacent to Ferozepur Road.
+According to latest reports, on a daily basis, 180,000 people use the metrobus, thus further reinforcing the need for public transport in Lahore. These buses have a dedicated road for them, with no other traffic allowed onto them. However, this actually ends up causing problems for other vehicles since lanes from existing roads had to be separated for this bus system.
+Figure 20: Route of the Lahore Metro Bus System
+However, problem has also been reported with regards to the Metro Bus System. In 2013, when city temperatures reached 45 °C, the engines began overheating and the air-conditioning of the buses stopped working (Kazmi, 2013). Passengers had to survive in the sweltering heat for hours as the buses broke down and stopped for hours. Thus, new air-conditioning systems were later installed in the buses.
+2. Lahore Rapid Mass Transit System
+The Lahore Rapid Mass Transit System (LRMTS) is an automated rapid transit line in Lahore. It is also Pakistan’s first driverless metro train system in Pakistan. It was established in 2020 and runs along a 27.1 km route. It has a dedicated track that runs overhead the existing roads, thereby, not contributing more to road congestion.
+14
+CE581 20INDE5001
+Figure 21: Route of the Lahore Rapid Mass Transit System
+However, these are only two routes that have public transportation along them. For a city as massive and populated as Lahore, that is simply not enough. A more exhaustive and extensive network of public transportation needs to be developed in order to cater to need of all the residents and to relieve congestion from roads caused by massive number of cars, motorbikes and rickshaws.
+4. Problem Solution/Methodology
+4.1 Analysis of Local Demand of Public Transport Based on Residential Density
+This study deals with the proposal of a new network of public transport. However, in order to propose aforementioned network, we need to undertake a thorough analysis of the city in order to assess which localities and neighborhoods have highest dependency on public transport.
+These would typically be low-income neighborhoods with lesser socioeconomic standing. The reason for this is because it would be difficult for people living in these neighborhoods to afford private transportation such as cars and motorbikes. This has become especially true in the last year, ever since the prices of fuel and fuel products have seen a massive hike.
+In comparison, residents of posh and upscale neighborhoods would rely less on public transport. Even if public transport were to become available in these areas, residents would be unlikely to use them and still use their cars as it would likely be considered a matter of shame for them to be seen riding public transport.
+15
+CE581 20INDE5001
+However, even in upscale areas, there are still people who need public transport to travel such as the house help and workers of the residents. Therefore, it is still important that public transport be provided in posh areas of Lahore.
+Further, another factor that needs to be taken into account in population density. Where there is greater percentage of population residing, the network of public transport should be more dense, in order to cater to more people, and vice versa.
+Fortunately, these two factors—i.e. socioeconomic standing and population density—usually go hand in hand. In posh area, people typically have large mansions and estates with nuclear family systems. So, automatically, the population density decreases as number of people living per unit area decreases. Contrary to that, in lower income neighborhoods, there are usually multiple families or joint families living in smaller sized houses, thereby increasing the population density.
+Therefore, to analyze the need for public transport, population density needs to be analyzed. (Munir, 2018) analyzed the population density of Lahore and segmented the entire city into zones based on population density as can be seen in Figure 8.
+Figure 22: Population Density of Lahore
+16
+CE581 20INDE5001
+As can be seen in Figure 8, the majority of the population of Lahore is concentrated on the north western side of the city. In those areas, population density can be seen to be as high as more than 850,000 people per square kilometer. Towards the eastern and southern side, population density decreases drastically and this number is reduced to less than 4000 people per square kilometer.
+Further, (Munir, 2018) also identified the major housing developments in Lahore. Housing developments are exclusive gated communities with expensive real estate and many amenities. Therefore, these are home to people with high income. Moreover, these housing developments have predefined plot sizes for houses and these sizes are typically very massive. Therefore, these are also areas where there would be less population density. These communities have been highlighted in red in Figure 9.
+Figure 23: Housing Developments in Lahore
+Therefore, it can be said that the ideal public transport network for Lahore would be more concentrated in the northern and western parts of the city. However, there would still be some lines and routes running in the eastern and southern parts.
+17
+CE581 20INDE5001
+4.2 Proposal of New Network of Public Transit Service
+In this study, a new network of public transport has been proposed that consist of four new routes, in addition to the two old routes that already exist (see Figure 10). These new routes are proposed in such a way that they complement the old, preexisting routes and, together, they form an extensive network all over the city.
+4.3 Specifications of the Public Transit Service
+The proposed public transit service will be based on trains. There will be no buses along any of the routes so as to avoid further congestion on the roads. Due to overcrowding and overpopulation in Lahore, it is proposed that the train tracks be aboveground. This is also the case for the Lahore Rapid Mass Transit System Trains. Train tracks as well as train stations will be constructed on flyovers which will be accessible from ground level via stairs.
+Figure 24: Above ground stations of LRMTS
+Another big advantage of proposing this system apart from avoid congestion, is that since it has already been done for one route, it will be easier to replicate this infrastructure along other routes. Before construction of LRMTS system, massive and in-depth feasibility studies were carried out by NESPAK and feasibility reports as well as site investigation reports were developed. NESPAK is the premier engineering consulting firm of Pakistan and responsible for consulting role in almost all of Pakistan government’s projects.
+18
+CE581 20INDE5001
+The feasibility studies and geotechnical reports state that the topsoil and subsoil of Lahore possesses enough bearing capacity to withstand the loads associated with these flyovers, train stations and trains. Further, structural and geotechnical design of the flyovers as well as the piles has also been carried out and implemented for the LRMTS system. That design can be adopted for the new proposed system as well since Lahore has a uniform soil strata.
+Figure 25: Overview of Flyover Components
+Figure 11 depicts some of the basic components of a flyover required for the train system. As can be seen in the bottom right of the figure, the train tracks will rest on the deck which will transfer the load to the girders. The girders will be connected to the pier (see bottom left of the figure) and will transfer the load to said pier. As can be seen in the top of the figure, there will be multiple piers spaced along the length of the track.
+19
+CE581 20INDE5001
+Each pier will be embedded in the ground and will be connected at its end to the pile cap. The pile cap will then transfer the load onto the piles. The piles are embedded very deep into the ground so that they are able to reach the hard strata of the soil which can bear such a massive load.
+Figure 26: Proposed New Network of Public Transport for Lahore
+4.4 Proposed Routes of the New Public Transit Service
+All four proposed new routes are discussed in detail as follows:
+20
+CE581 20INDE5001
+4.4.1 Route 1
+Route 1 is highlighted in yellow color in Figure 10. It starts in the southern part of the city, in an area known as Bhobatian and continues northward until it merges into Canal Road. Canal Road is major eight-lane east–west boulevard which runs through the center of the city. It ends in the northeastern part of the city. There are many offices, shopping centers and commercial hubs along Canal Road which would all be accessible by Route 1.
+4.4.2 Route 2
+Route 2, as highlighted in green will run along the road named as ‘Ring Road’ which starts in the southern part of the city and runs eastward and northward until it stops in the northeastern part of the city, in the same place as the last stop of route 1. This route will run through the housing developments discussed in the previous sections. It will be the only route accessible in almost all of the posh and upscale areas of the city. Thus, this would be great for the house help and other lower income groups that have to travel into this part of the area for work.
+Further, this route will also run next to the airport. Therefore, tourists—more particularly, international tourists—coming to Lahore can rely on this. This will remove the need for them to hail expensive taxis and will also enable them to take in views of the city as they travel along this track in an aboveground train.
+4.4.3 Route 3
+Route 3 will run along the railways track that passes through the city, bringing in trains from other cities. It will start in the southern part and continue northward, ending in the Walled City of Lahore. This route will be accessible by the train station. Therefore, passengers coming in from other cities through trains, can utilize this route instead of having to get taxis which are usually very expensive.
+Further, this route will also cross the Quaid-e-Azam industrial estate which is the workplace of many blue collar workers who usually do not possess cars and bikes of their own. This route will also be able to take tourists into the Walled City of Lahore, thereby proving advantageous for them also.
+4.4.4 Route 4
+This route is the smallest of all routes. It will start in the western corner of the city and continue in a south eastern direction, stopping at Ferozepur Road. The great advantage of this route is that its starting point is the biggest bus stand in Lahore. Private bus networks that run along inter-city
+21
+CE581 20INDE5001
+routes have their bus stands here. Therefore, tourists coming in from other cities via buses can utilize this route instead of having to get taxis.
+Further, the area adjacent to these bus stands is very run down and is home to thousands of impoverished and underprivileged families. This route can prove to be an excellent travelling facility for them as well.
+Thus, in this way, the proposed public transport network consisting of four routes will connect the different areas of the city together.
+5. Benefits of New Network of Public Transit Service
+The biggest benefit of this proposed network of public transportation is that it spans the entire built-up area of the city of Lahore. It is distributed proportionally in the city with the demand. For example, the network is seen to be denser in the northern and western parts of the city, which were proven in the earlier analysis to be more densely populated with lower income groups, thus having more demand.
+On the contrary, in the southern and eastern parts of the city, there is lesser demand and more socioecomic stability. Still, transportation network is provided in those parts for ease of access and so that the entire city can be connected.
+22
+CE581 20INDE5001
+Figure 27: Points of intersection of all routes
+Further, as can be seen in the above figure, all existing and proposed routes intersect at various points. There are a total of 14 intersection points between all routes. At all these points, passengers have the liberty to get off one train and get on a different train to head in a different direction.
+This increases ease of access and makes the entire city accessible for all passengers. Rather than just connecting two area with each other, this intersecting network connects all areas of the city. In theory, if a passenger wanted to, they can reach any part of the city from their location just be getting on one train and then changing trains as needed.
+Currently, this is not possible with only two existing roads. However, the new routes have been proposed and designed in such a way that this would become possible after their implementation.
+23
+CE581 20INDE5001
+Figure 28: Locations of airports, bus stands and railway stations
+Further, as can be seen in the above figure, the new proposed routes intersect with all other important infrastructures such as one airport, one bus stand and two railway stations in Lahore. This essentially means that all tourists coming into Lahore will be able to utilize this network of public transportation. Whether they are flying into the city or taking a train or coming by bus, they can use the network of trains and get wherever they want to within the city.
+In order to make this system even more beneficial, some minor additions can be made to the train stations. For example, wheelchairs and ramps should be installed to make this system accessible for disabled and elderly people. Further, all signboards and announcements should be in English and Urdu both so that both local and foreign people would be able to understand everything.
+24
+CE581 20INDE5001
+6. Results
+Thus, in this way, this proposed network of public transport would benefit the entire city. It would make it easier for people to travel from their locality to any place they want to within the city. It would also facilitate the tourists coming into Lahore—whether from other cities or outside the country—and reduce their dependence on expensive taxis and cab companies such as Uber.
+Further, it would also help to relieve congestion from the roads as less people will need to use their private transportation. This will reduce the burden on people’s pockets that has been created by the high prices of fuel. It will also help to curb the noise pollution and road congestion that is caused by the sheer volume of cars on the roads of Lahore.
+The biggest advantage of this proposed system is that it will help curb the epidemic of air pollution that is so prevalent in Lahore. Less vehicles on the road will lead to lesser vehicle exhaust fumes which will, in turn, lead to a cleaner and greener Lahore. Ultimately, this will help to reduce the smog problem that envelopes Lahore every year and causes serious harm to its citizen’s health.
+7. Conclusions
+This study deals with the proposal of a new network of train-based public transportation in Lahore. Justification has been provided as to why Lahore has been picked as the study area and the various reasons have been outlined in great detail as to why Lahore is in dire need of an extensive and exhaustive network of public transportation. Finally, a new network of routes have been proposed and specifications of the transport system infrastructure have been outlined.
+25
+CE581 20INDE5001
+8. References
+Air quality in Lahore. (n.d.). Retrieved from IQAir: https://www.iqair.com/pakistan/punjab/lahore
+Ali, S. M. (2021). Foreign Policy. Retrieved from How Lahore Became the World’s Most Polluted Place: https://foreignpolicy.com/2021/11/29/pakistan-lahore-pollution-fossil-fuels-climate/
+Ashraf, A., Butt, A., Khalid, I., Alam, R. U., & Ahmad, S. R. (2017). Smog analysis and its effect on reported ocular surface diseases: A case study of 2016 smog event of Lahore. Atmospheric Environment.
+Coelho, M. S., & M., A. (n.d.). Retrieved from Sh**t I Smoke!: https://shootismoke.app/city/lahore
+Kazmi, S. (2013). Metro malfunctions: imported buses cannot bear local heat. Retrieved from Pakistan Today: https://archive.pakistantoday.com.pk/2013/06/03/metro-malfunctions-imported-buses-cannot-bear-local-heat/
+Khawar, H. (2017). Lahore — world’s largest city in 2050. Retrieved from The Express Tribune: https://tribune.com.pk/story/1498663/lahore-worlds-largest-city-2050
+Munir, K. (2018). Development or Disparity: The case of Lahore, Pakistan. Retrieved from https://due-parsons.github.io/methods3-fall2018/projects/development-or-disparity-the-case-of-lahore-pakistan/
+Numbeo. (n.d.). Cost of Living in Lahore. Retrieved from Numbeo: https://www.numbeo.com/cost-of-living/in/Lahore
+Sughis, M., Nawrot, T., Ihsan-ul-Haque, & al., S. e. (2012). lood pressure and particulate air pollution in schoolchildren of Lahore, Pakistan. BMC Public Health.
+Ten-fold increase in foreign tourists for Lahore Walled City. (n.d.). Retrieved from DAWN: https://www.dawn.com/news/1230220
+Vanzo, T. (2022, 04 20). Retrieved from Smart Air: https://smartairfilters.com/en/blog/25-most-polluted-cities-world-2022-rankings/
